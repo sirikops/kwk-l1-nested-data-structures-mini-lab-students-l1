@@ -16,4 +16,5 @@ puts "Please enter a number below:"
 number = gets.chomp
 if number %2 == 0
   puts "#{number} is even."
+end
 # elsif number
