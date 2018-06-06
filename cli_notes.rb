@@ -14,4 +14,4 @@
 
 puts "Please enter a number below:"
 number = gets.chomp
-if number is 
+if number 
