@@ -7,9 +7,10 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
-  # your code here!
+  ingredients.push(order)
+  puts ingredients
 end
-
+sandwich_request(ingredients,["rye", "tomatoes", "mayo"])
 # example city_info hash
 cities = {
   :new_york => { 
