@@ -7,3 +7,7 @@ game_number = "75"
 
 puts "Please enter your first name."
 first_name = gets.chomp
+puts "Please enter your last name."
+last_name = gets.chomp
+
+puts "Welcome to the #{game_number} Hunger Games, #{first_name} #{last_name} "
