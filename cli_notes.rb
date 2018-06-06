@@ -14,6 +14,6 @@
 
 puts "Please enter a number below:"
 number = gets.chomp
-if number
+if number %2 == 0
   puts "#{number} is even."
-elsif number
+# elsif number
