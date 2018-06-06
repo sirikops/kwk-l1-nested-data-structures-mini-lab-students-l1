@@ -12,10 +12,10 @@
 
 # puts "Welcome to the #{game_number}th Hunger Games, #{first_name} #{last_name} "
 
-puts "Please enter a number below:"
-number = gets.chomp.to_i
-if number %2 == 0
-  puts "#{number} is even."
-else 
-  puts "#{number} is odd."
-end
+# puts "Please enter a number below:"
+# number = gets.chomp.to_i
+# if number %2 == 0
+#   puts "#{number} is even."
+# else 
+#   puts "#{number} is odd."
+# end
