@@ -11,3 +11,7 @@
 # last_name = gets.chomp
 
 # puts "Welcome to the #{game_number}th Hunger Games, #{first_name} #{last_name} "
+
+puts "Please enter a number below:"
+number = gets.chomp
+if number is 
